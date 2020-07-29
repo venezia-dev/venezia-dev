@@ -6,7 +6,9 @@
 
 - Lo que más me motiva es seguir ayudando a digitalizar el mundo.
 
+- Mi Web Portfolio: https://www.veneziadev.com/
 
+- Empezando a crecer mi twitter [@Lea_venezia](https://twitter.com/Lea_Venezia)
 
 <!--
 **venezia-dev/venezia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
