@@ -1,4 +1,10 @@
-### Hi 👋
+### Hola! 👋
+
+Soy Leandro Venezia 😄, desarrollador Web Full Stack en busca de proyectos desafiantes! 
+Mi lenguaje base es JavaScript, al cual extiendo con diversas tecnologías. 
+
+### Lo que mas me motiva es seguir ayudando a digitalizar el mundo.
+
 
 <!--
 **venezia-dev/venezia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
