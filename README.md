@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-- Soy Leandro Venezia 😄, Desarrollador Web Full Stack en busca de proyectos desafiantes! 
+- Soy Leandro Venezia 😄, Desarrollador Web Full Stack.
 
 - Mi lenguaje base es JavaScript, al cual extiendo con diversas tecnologías. 
 
