@@ -10,7 +10,6 @@
 
 - Empezando a crecer mi twitter [@Lea_venezia](https://twitter.com/Lea_Venezia)
 
-[![lea.js's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/veneziadev)
 
 <!--
 **venezia-dev/venezia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
