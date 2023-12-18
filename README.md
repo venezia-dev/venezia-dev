@@ -6,7 +6,7 @@
 
 - Lo que más me motiva es seguir ayudando a digitalizar el mundo.
 
-- Mi Web Portfolio: https://www.veneziadev.com/
+- Mi Web Portfolio: https://www.veneziadev.com.ar/
 
 - Empezando a crecer mi twitter [@Lea_venezia](https://twitter.com/Lea_Venezia)
 
